@@ -13,6 +13,4 @@ _________________________________
 ![alt](img/play.png)
 _________________________________
 
-&gt; nhóm ăn kem
-
-<mark>D12QTANM</mark>
+<mark>nhóm ăn kem</mark>
