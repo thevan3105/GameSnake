@@ -11,5 +11,5 @@ với nhiều chế độ chơi:
 _________________________________
 * giao diện chơi
 ![alt](img/play.png)
-- [^1]: D12QTANM
+- [^1]: d12qtanm
 - [^2]: Nhóm ăn kem
