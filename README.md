@@ -12,5 +12,5 @@ _________________________________
 * giao diện chơi
 ![alt](img/play.png)
 _________________________________
-
+&gt; nhóm ăn kem
 <mark>nhóm ăn kem</mark>
