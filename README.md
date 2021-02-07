@@ -8,5 +8,6 @@ với nhiều chế độ chơi:
 ## Một số hình ảnh trong game
 * giao diện chính
 ![alt](img/home.png)
+_________________________________
 * giao diện chơi
 ![alt](img/play.png)
