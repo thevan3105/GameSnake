@@ -14,4 +14,4 @@ _________________________________
 _________________________________
 &gt; nhóm ăn kem
 
-<span style="background-color: #FFFF00">D12QTANM</span>
+<span style="background-color: #FFFF00">Marked text</span>
