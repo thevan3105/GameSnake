@@ -13,5 +13,3 @@ _________________________________
 ![alt](img/play.png)
 _________________________________
 &gt; nhóm ăn kem
-
-<span style="background-color: #FFFF00">Marked text</span>
