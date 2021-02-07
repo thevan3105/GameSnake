@@ -1,5 +1,7 @@
 # GameSnake
 
+***use java 8***
+
 với nhiều chế độ chơi:
 - lựa chọn cấp độ
 - lựa chọn bản đồ
